@@ -5,3 +5,16 @@
 .pub/
 
 build/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/Dart_SDK.xml
+.idea/libraries/Flutter_for_Android.xml
+.idea/libraries/Flutter_Plugins.xml
+.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml
+.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_71_jar.xml
+.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_2_71_jar.xml
+.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_71_jar.xml
+.idea/runConfigurations/example_lib_main_dart.xml
