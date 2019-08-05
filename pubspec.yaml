@@ -1,6 +1,6 @@
 name: yandex_sign
 description: Flutter plugin for yandex map sign and yandex navigator sign for IOS & Android.
-version: 0.9.0
+version: 0.9.1
 author: Dzhafar <dsishokov@gmail.com>
 homepage: https://github.com/Ishokov-Dzhafar/yandex_sign
 
